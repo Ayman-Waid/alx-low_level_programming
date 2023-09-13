@@ -282,3 +282,7 @@ carrie@ubuntu:/debugging$
 
 As a bonus, talking through your code also helps you identify which portions need to have comments and what the comments should be.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ca3cd80f0e8c9b54775df62068afc6199de581f0
